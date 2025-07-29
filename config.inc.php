@@ -1,4 +1,4 @@
 <?php
 $host = 'localhost';
 $username = 'root'; 
-$password = '123456';
+$password = '111222';

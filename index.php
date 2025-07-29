@@ -5,7 +5,7 @@ require_once 'config.inc.php';
 try{
     $connection = new mysqli($host, $username, $password);
 }catch(Exception $e){
-    echo "I can not connect.Please check config.inc.php";    
+    echo "I can not connect.<br><br>Please check config.inc.php";    
     die;
 }
 
